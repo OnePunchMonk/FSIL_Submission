@@ -1,0 +1,17 @@
+Prompts
+
+
+What is the market sentiment around the company's performance amongst public and private investors for the past 2 years
+what have been the dividends on the company's stock from 2018-2023
+What industry does the company deal in and what is its market capitalisation in 2023 in the US,India,China markets
+How is the component supply chain of the company structured 
+what is the company's quarter on quarter growth for 2022 to 2023
+Gross margins on products , services , R&D cost , operations cost , advertisement,taxes , obligation and commitment cost,auditor
+debt , lease and liquidity of company on 2020-2023
+foreign exchange rate , investment risk rate from 2020-2023
+shareholders,esops, valuation,securities held by company in 2023
+
+revenue , net income , earnings per share ,return on equity , debt to equity ratio form 2020-2023
+
+
+
